@@ -1,0 +1,2 @@
+class SurblError(Exception):
+    pass
